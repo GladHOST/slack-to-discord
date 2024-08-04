@@ -1,0 +1,15 @@
+{
+    "name": "gladhost/slack-to-discord",
+    "description": "Permit convert a Slack webhook into a Discord webhook",
+    "type": "project",
+    "require": {
+        "atakde/discord-webhook-php": "^2.0"
+    },
+    "license": "CC BY-NC 4.0",
+    "authors": [
+        {
+            "name": "Henri Devigne"
+        }
+    ],
+    "minimum-stability": "stable"
+}
